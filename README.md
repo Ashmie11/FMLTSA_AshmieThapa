@@ -1,10 +1,11 @@
 # FMLTSA_AshmieThapa
--What is the reason you decided to take this class? - 
-The reason I decided to take this class because time series analysis plays an important role in many physics applications, for example ana
+-As an aspiring experimental physicist, I have  realized that handling and interpreting data is a significant part of my work. Analyzing complex datasets from experiments can be challenging most of the times, so I decided to take this class to gain hands-on experience with ML methods and tools for data analysis. I believe that mastering these techniques will be valuable in my research and will help me make more informed interpretations of experimental data.
 
-- What do you hope to learn the most?-
-- I want to gain hands on experience with handling real world data sets and improve my ability to analyze data.
+-I hope to gain practical experience with real-world datasets and improve my ability to analyze and interpret data effectively using machine learning techniques. At the same time, I am also excited to learn how to apply these tools in my research and work.
+
+-I am not very experienced in programming and machine learning methods, but my curiosity and eagerness to learn will help me in this class. With my physics background, I’m accustomed to working with data and solving problems, so my analytical skills will help me effectively understand the tools and techniques used in this course.
+
+-
+-
 - 
-- What are the strength in your background or character that you think will help you in the class?
-- Honestly, I am not very apt in programming and ML methods but my curiosity and willingness to learn new things will definitely help me in the class. I come from a physics background and I have to deal with lots of data and figure out a methods to deal with them,
-- I may not be very experienced in programming and ML methods, but my curiosity and eagerness to learn will help me in this class. Coming from a physics background, I have experience working with data and finding ways to analyze it. This problem-solving mindset, along with my analytical skills, will support me in understanding and applying time series analysis techniques
+-

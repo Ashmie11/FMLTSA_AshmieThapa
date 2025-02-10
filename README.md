@@ -5,7 +5,7 @@
 
 -I am not very experienced in programming and machine learning methods, but my curiosity and eagerness to learn will help me in this class. With my physics background, I’m accustomed to working with data and solving problems, so my analytical skills will help me effectively understand the tools and techniques used in this course.
 
--
--
-- 
--
+
+
+  
+
